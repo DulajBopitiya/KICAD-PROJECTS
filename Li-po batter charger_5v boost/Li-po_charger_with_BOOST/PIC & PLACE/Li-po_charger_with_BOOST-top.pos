@@ -1,0 +1,27 @@
+### Footprint positions - created on 2024-04-19T14:51:45+0530 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                        PosX       PosY       Rot  Side
+C2        0.1u             C_0805_2012Metric           75.0000   -81.8000    0.0000  top
+C3        22u              C_0805_2012Metric           86.8000   -86.2375   90.0000  top
+C4        22u              C_0805_2012Metric           93.0000   -86.4875  -90.0000  top
+C5        10u              C_0805_2012Metric           64.0000   -85.4000  -90.0000  top
+D1        RED              LED_0603_1608Metric         68.0125   -77.6000    0.0000  top
+D2        GREEN            LED_0603_1608Metric         71.8000   -77.6000  180.0000  top
+D3        SS34             D_SMA                       90.4000   -81.8000  180.0000  top
+IC1       FS312F-G         SOT23-6                     75.0000   -85.2000   90.0000  top
+J2        10118194-0001LF  AMPHENOL_10118194-0001LF    58.1000   -85.3000  -90.0000  top
+L1        22uH             L_0805_2012Metric           84.6625   -82.6000    0.0000  top
+Q1        FS8205           SOT95P280X145-6N            75.0000   -90.0000    0.0000  top
+R1        1K               R_0805_2012Metric           68.0125   -79.7450  180.0000  top
+R2        2K               R_0805_2012Metric           69.6000   -90.4000    0.0000  top
+R3        1K               R_0805_2012Metric           72.1125   -79.8000  180.0000  top
+R4        100              R_0805_2012Metric           79.6875   -81.8000    0.0000  top
+R5        2K               R_0805_2012Metric           78.8875   -87.0000    0.0000  top
+R6        7K5              R_0805_2012Metric           90.2000   -85.6000   90.0000  top
+R7        1K               R_0805_2012Metric           89.2000   -89.2000    0.0000  top
+S1        OS102011MS2QN1   SW_OS102011MS2QN1           80.9000   -78.2000    0.0000  top
+U1        TP4056           SOP127P600X175-9N           69.4000   -85.2000   90.0000  top
+U2        MT3608           SOT95P280X145-6N            83.4000   -86.2000    0.0000  top
+## End
